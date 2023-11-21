@@ -2,9 +2,6 @@
 Spring, React 6인 팀 프로젝트 ( 카페 통합운영관리 시스템 )
 
 
-
-# starbug
-카페관리 시스템(ERP) 스프링 프로젝트 입니다.
 <h1>1. 주제</h1></br>
 Spring과 React를 이용한 카페관리 시스템(ERP)</br>
 <h1>2. 목적</h1></br>
